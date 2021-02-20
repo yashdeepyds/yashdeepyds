@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **yashdeepyds/yashdeepyds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,39 +15,35 @@ Here are some ideas to get you started:
 -->
 <p>
   
-  <h1 align='center'>Hey there, I'm Anubhav Singh</h1>
+  <h1 align='center'>Hey there 👋 </h1>
 
 </p>
 
 <img align="right" src="https://github.com/anubhavv1998/anubhavv1998/blob/main/Assistant.gif" height="400" width="450">
 
-[![](https://img.shields.io/badge/LinkedIn-AnubhavSingh-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
-[![](https://img.shields.io/badge/Twitter-AnubhavSingh-skyblue)](https://twitter.com/Anubhav02017/)
-[![](https://img.shields.io/badge/HackerRank-anubhavv1998-brightgreen)](https://www.hackerrank.com/anubhavv1998/)
-[![](https://img.shields.io/badge/Portfolio-AnubhavSingh-orange)](https://anubhavv1998.github.io/anubhav/)
-[![](https://img.shields.io/badge/GeeksForGeeks-AnubhavSingh-brightgreen)](https://auth.geeksforgeeks.org/user/4nu6h4v51ngh/)
-[![](https://img.shields.io/badge/YouTube-AnubhavSingh-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)
-[![](https://img.shields.io/badge/Gmail-anubhavsingh02016@gmail.com-red)](mailto:anubhavsingh02016@gmail.com)
-[![](https://img.shields.io/badge/Discord-anubhavsingh-blue)](https://discord.com/channels/692993599192956928/692993599192956931)
+[![](https://img.shields.io/badge/LinkedIn-Yashdeep Shah-green)](https://www.linkedin.com/in/yashdeep-shah-387315134/)
+[![](https://img.shields.io/badge/Twitter-YashdeepShah-skyblue)](https://https://twitter.com/yash_yds)
+[![](https://img.shields.io/badge/HackerRank-yashyds-brightgreen)](https://www.hackerrank.com/yashyds/)
+/*[![](https://img.shields.io/badge/Portfolio-AnubhavSingh-orange)](https://anubhavv1998.github.io/anubhav/)*/
+[![](https://img.shields.io/badge/GeeksForGeeks-YashdeepShah-brightgreen)](https://auth.geeksforgeeks.user/yashdeepyds/)
+/*[![](https://img.shields.io/badge/YouTube-AnubhavSingh-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)*/
+[![](https://img.shields.io/badge/Gmail-yashdeepyds@gmail.com-red)](mailto:yashdeepyds@gmail.com)
+//[![](https://img.shields.io/badge/Discord-anubhavsingh-blue)](https://discord.com/channels/692993599192956928/692993599192956931)
 
 <br>
 
 <h2 align="top">About Me</h2>
 
-### I code in C++, Python and Java
+### I code in C and Java
 
-### Develop UI's in Python
+### Not a writer by profession just hobby
 
-### Machine learning enthusiast
-
-### Mathematics is everything 
-
-### I write contents for newspaper
+### Ready to learn new things 
 
 <hr>
-
+<!--
 ## Languages and Tools:
-
+<!--
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -63,7 +59,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br/>
 <br/>
 <br>
-
 ![](https://komarev.com/ghpvc/?username=your-github-anubhavv1998&label=PROFILE+VIEWS)<hr>
 
 <h2 style="block">Github Stats</h2>
@@ -103,4 +98,4 @@ Here are some ideas to get you started:
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=E-Book_Services&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
     </a>
 </p>
-
+-->
