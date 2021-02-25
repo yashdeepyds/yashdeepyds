@@ -57,28 +57,28 @@ Here are some ideas to get you started:
 <br/>
 <br>
 ![](https://komarev.com/ghpvc/?username=your-github-anubhavv1998&label=PROFILE+VIEWS)<hr>
-
+<!--
 <h2 style="block">Github Stats</h2>
 <p width="100%">
-  <a href="https://github.com/anubhavv1998">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=anubhavv1998&theme=highcontrast&show_icons=true&count_private=true" />
+  <a href="https://github.com/yashdeepyds">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=yashdeepyds&theme=highcontrast&show_icons=true&count_private=true" />
   </a>
 </p>
-
+<!--
 <h2 style="block">Code in Languages</h2>
   <p width="100%">
-    <a href="https://github.com/anubhavv1998">
-      <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavv1998&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
+    <a href="https://github.com/yashdeepyds">
+      <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdeepyds&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
     </a>
   </p>
-
+<!--
   <h2 style="block">  Projects <h2>
   <p width="100%">
     <a href="https://github.com/anubhavv1998/SAIRA-Desktop-Assistant">
       <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=SAIRA-Desktop-Assistant&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
     </a>
       <br><br>
-
+<!--
    <a href="https://github.com/anubhavv1998/EmployeeLoanMgt">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=EmployeeLoanMgt&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
     </a>
@@ -95,4 +95,3 @@ Here are some ideas to get you started:
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=E-Book_Services&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
     </a>
 </p>
--->
