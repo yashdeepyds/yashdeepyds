@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github.com/anubhavv1998/anubhavv1998/blob/main/Assistant.gif" height="400" width="450">
 
-[![](https://img.shields.io/badge/LinkedIn-Yashdeep Shah-green)](https://www.linkedin.com/in/yashdeep-shah-387315134/)
+[![](https://img.shields.io/badge/LinkedIn-YashdeepShah-green)](https://www.linkedin.com/in/yashdeep-shah-387315134/)
 [![](https://img.shields.io/badge/Twitter-YashdeepShah-skyblue)](https://https://twitter.com/yash_yds)
 [![](https://img.shields.io/badge/HackerRank-yashyds-brightgreen)](https://www.hackerrank.com/yashyds/)
 [![](https://img.shields.io/badge/GeeksForGeeks-YashdeepShah-brightgreen)](https://auth.geeksforgeeks.user/yashdeepyds/)
