@@ -24,11 +24,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/LinkedIn-Yashdeep Shah-green)](https://www.linkedin.com/in/yashdeep-shah-387315134/)
 [![](https://img.shields.io/badge/Twitter-YashdeepShah-skyblue)](https://https://twitter.com/yash_yds)
 [![](https://img.shields.io/badge/HackerRank-yashyds-brightgreen)](https://www.hackerrank.com/yashyds/)
-/*[![](https://img.shields.io/badge/Portfolio-AnubhavSingh-orange)](https://anubhavv1998.github.io/anubhav/)*/
 [![](https://img.shields.io/badge/GeeksForGeeks-YashdeepShah-brightgreen)](https://auth.geeksforgeeks.user/yashdeepyds/)
-/*[![](https://img.shields.io/badge/YouTube-AnubhavSingh-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)*/
 [![](https://img.shields.io/badge/Gmail-yashdeepyds@gmail.com-red)](mailto:yashdeepyds@gmail.com)
-//[![](https://img.shields.io/badge/Discord-anubhavsingh-blue)](https://discord.com/channels/692993599192956928/692993599192956931)
 
 <br>
 
