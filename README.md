@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/LinkedIn-YashdeepShah-green)](https://www.linkedin.com/in/yashdeep-shah-387315134/)
 [![](https://img.shields.io/badge/Twitter-YashdeepShah-skyblue)](https://https://twitter.com/yash_yds)
 [![](https://img.shields.io/badge/HackerRank-yashyds-brightgreen)](https://www.hackerrank.com/yashyds/)
-[![](https://img.shields.io/badge/GeeksForGeeks-YashdeepShah-brightgreen)](https://auth.geeksforgeeks.user/yashdeepyds/)
+[![](https://img.shields.io/badge/GeeksForGeeks-YashdeepShah-brightgreen)](https://auth.geeksforgeeks.org/user/yashdeepyds/profile)
 [![](https://img.shields.io/badge/Gmail-yashdeepyds@gmail.com-red)](mailto:yashdeepyds@gmail.com)
 
 <br>
