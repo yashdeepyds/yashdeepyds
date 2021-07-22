@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 
 <h2 align="top">About Me</h2>
 
-### I code in C and Java
-
-### Not a writer by profession just hobby
+### I am a Java Programmer
 
 ### Ready to learn new things 
 
@@ -71,27 +69,3 @@ Here are some ideas to get you started:
       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdeepyds&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
     </a>
   </p>
-<!--
-  <h2 style="block">  Projects <h2>
-  <p width="100%">
-    <a href="https://github.com/anubhavv1998/SAIRA-Desktop-Assistant">
-      <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=SAIRA-Desktop-Assistant&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-    </a>
-      <br><br>
-<!--
-   <a href="https://github.com/anubhavv1998/EmployeeLoanMgt">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=EmployeeLoanMgt&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-    </a>
-    <br><br>
-    <a href="https://github.com/anubhavv1998/EazyPeazy">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=EazyPeazy&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-    </a>
-    <br><br>
-    <a href="https://github.com/anubhavv1998/Book-Navigator-GCExtention">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=Book-Navigator-GCExtention&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-    </a>
-    <br><br>
-    <a href="https://github.com/anubhavv1998/E-Book_Services">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhavv1998&repo=E-Book_Services&theme=highcontrast&show_icons=true&count_private=true&layout=compact"/>
-    </a>
-</p>
