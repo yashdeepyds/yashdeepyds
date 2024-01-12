@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on developing_logics!!
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working as a Devops Engineer!!
+- 🌱 I’m currently learning Devops tools to ease my life by automating things.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
 <p>
@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 
 <h2 align="top">About Me</h2>
 
-### I am a Java Programmer
-
-### Ready to learn new things 
+### I'm currently working as a Platform Engineer, immersing myself in the tools and tactics essential for DevOps, as my role demands.
 
 <hr>
 <!--
